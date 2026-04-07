@@ -31,6 +31,12 @@ const links = [
     icon: CodeImagesIcon,
   },
   {
+    href: "/videos",
+    label: "Code Videos",
+    description: "Create typing animations of your code",
+    icon: CodeImagesIcon,
+  },
+  {
     href: "/icon",
     label: "Icon Maker",
     description: "Create beautiful icons",
